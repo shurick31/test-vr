@@ -2,7 +2,7 @@
 
 VideoPano component works on mobile as expected.
 
-clone repository
+clone repository, then
 ```
 $ cd test-vr
 $ yarn install
